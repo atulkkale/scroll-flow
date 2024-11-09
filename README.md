@@ -17,13 +17,13 @@ The objective of this project was to implement complex scrolling effects using H
 To view the project, clone this repository and open `index.html` in a browser.
 
 ```bash
-git clone https://github.com/atulkkale/blueeconomy.git
-cd blueeconomy
+git clone https://github.com/atulkkale/scroll-flow.git
+cd scroll-flow
 open index.html
 ```
 ## Project Link
 
-You can view the live version of the project [here](https://atulkkale.github.io/blueeconomy/).
+You can view the live version of the project [here](https://atulkkale.github.io/scroll-flow/).
 
 ## Screenshots
 
